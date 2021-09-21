@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MYody2021
+- 👀 I’m interested in Coding, Games and Classical Music
+- 🌱 I’m currently learning C# and .NET Language
+- 💞️ I’m looking to collaborate on Nothing
+- 📫 How to reach me? you can contact me on my email!
